@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
+  <defs>
+    <linearGradient id="grammarGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563EB"/>
+      <stop offset="100%" style="stop-color:#3B82F6"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Book -->
+  <rect x="8" y="12" width="34" height="28" rx="3" fill="url(#grammarGrad)"/>
+  <rect x="10" y="14" width="30" height="24" rx="2" fill="#FFFFFF"/>
+  
+  <!-- Book spine -->
+  <rect x="8" y="12" width="4" height="28" rx="2" fill="#1D4ED8"/>
+  
+  <!-- Text lines with animation -->
+  <rect x="16" y="18" width="20" height="3" rx="1" fill="#DBEAFE">
+    <animate attributeName="width" values="20;12;20" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="16" y="24" width="16" height="3" rx="1" fill="#DBEAFE">
+    <animate attributeName="width" values="16;22;16" dur="2.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="16" y="30" width="18" height="3" rx="1" fill="#DBEAFE">
+    <animate attributeName="width" values="18;10;18" dur="1.8s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Check mark appearing -->
+  <g transform="translate(30, 20)">
+    <circle cx="8" cy="8" r="8" fill="#10B981">
+      <animate attributeName="r" values="0;8;8;0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M4 8 L7 11 L12 5" stroke="white" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <animate attributeName="opacity" values="0;1;1;0" dur="3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

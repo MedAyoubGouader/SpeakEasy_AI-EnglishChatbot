@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" width="200" height="50">
+  <defs>
+    <linearGradient id="logoGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563EB;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#3B82F6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Chat bubble icon -->
+  <g transform="translate(5, 8)">
+    <path d="M0 15C0 6.716 6.716 0 15 0h4c8.284 0 15 6.716 15 15v4c0 8.284-6.716 15-15 15h-4c-2.5 0-4.8-.6-6.8-1.7L0 35l2.7-6.3C0.6 26.7 0 24.5 0 22v-7z" fill="url(#logoGradient)"/>
+    <circle cx="11" cy="17" r="2.5" fill="white"/>
+    <circle cx="17" cy="17" r="2.5" fill="white"/>
+    <circle cx="23" cy="17" r="2.5" fill="white"/>
+  </g>
+  
+  <!-- SpeakEasy text -->
+  <text x="48" y="32" font-family="Inter, Segoe UI, sans-serif" font-size="22" font-weight="700" fill="#1E293B">
+    <tspan fill="#2563EB">Speak</tspan><tspan fill="#334155">Easy</tspan>
+  </text>
+  
+  <!-- AI badge -->
+  <rect x="155" y="15" width="35" height="20" rx="10" fill="#DBEAFE"/>
+  <text x="172.5" y="29" font-family="Inter, Segoe UI, sans-serif" font-size="11" font-weight="600" fill="#2563EB" text-anchor="middle">AI</text>
+</svg>

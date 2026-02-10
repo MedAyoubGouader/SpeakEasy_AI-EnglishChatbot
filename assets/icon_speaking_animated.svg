@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
+  <defs>
+    <linearGradient id="speakingGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981"/>
+      <stop offset="100%" style="stop-color:#059669"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Microphone body -->
+  <rect x="18" y="8" width="14" height="22" rx="7" fill="url(#speakingGrad)"/>
+  
+  <!-- Microphone stand -->
+  <path d="M12 25 Q12 38 25 38 Q38 38 38 25" stroke="#10B981" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <line x1="25" y1="38" x2="25" y2="44" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+  <line x1="18" y1="44" x2="32" y2="44" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Sound waves -->
+  <path d="M38 18 Q42 25 38 32" stroke="#10B981" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.4">
+    <animate attributeName="opacity" values="0;0.6;0" dur="1s" repeatCount="indefinite"/>
+  </path>
+  <path d="M42 14 Q48 25 42 36" stroke="#10B981" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.3">
+    <animate attributeName="opacity" values="0;0.4;0" dur="1s" begin="0.2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M46 10 Q54 25 46 40" stroke="#10B981" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.2">
+    <animate attributeName="opacity" values="0;0.3;0" dur="1s" begin="0.4s" repeatCount="indefinite"/>
+  </path>
+</svg>

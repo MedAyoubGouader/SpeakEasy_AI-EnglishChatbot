@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <defs>
+    <linearGradient id="listenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B5CF6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Headphones band -->
+  <path d="M8 26 Q8 10 24 10 Q40 10 40 26" stroke="url(#listenGrad)" stroke-width="4" fill="none" stroke-linecap="round"/>
+  
+  <!-- Left ear cup -->
+  <rect x="4" y="24" width="10" height="16" rx="5" fill="url(#listenGrad)"/>
+  
+  <!-- Right ear cup -->
+  <rect x="34" y="24" width="10" height="16" rx="5" fill="url(#listenGrad)"/>
+  
+  <!-- Sound waves (inside) -->
+  <path d="M18 28 Q20 32 18 36" stroke="#8B5CF6" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.5"/>
+  <path d="M22 26 Q25 32 22 38" stroke="#8B5CF6" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.3"/>
+  <path d="M26 26 Q29 32 26 38" stroke="#8B5CF6" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.3"/>
+  <path d="M30 28 Q32 32 30 36" stroke="#8B5CF6" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.5"/>
+</svg>

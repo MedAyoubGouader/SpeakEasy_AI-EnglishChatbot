@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
+  <defs>
+    <linearGradient id="micGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10B981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Pulse rings -->
+  <circle cx="30" cy="30" r="25" fill="none" stroke="#10B981" stroke-width="2" opacity="0.3">
+    <animate attributeName="r" values="20;28;20" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="30" cy="30" r="20" fill="none" stroke="#10B981" stroke-width="2" opacity="0.5">
+    <animate attributeName="r" values="15;22;15" dur="1.5s" repeatCount="indefinite" begin="0.3s"/>
+    <animate attributeName="opacity" values="0.7;0.2;0.7" dur="1.5s" repeatCount="indefinite" begin="0.3s"/>
+  </circle>
+  
+  <!-- Microphone icon -->
+  <rect x="24" y="15" width="12" height="20" rx="6" fill="url(#micGrad)"/>
+  <path d="M18 30 Q18 42 30 42 Q42 42 42 30" stroke="#10B981" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <line x1="30" y1="42" x2="30" y2="48" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+  <line x1="24" y1="48" x2="36" y2="48" stroke="#10B981" stroke-width="3" stroke-linecap="round"/>
+</svg>

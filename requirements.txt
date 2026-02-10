@@ -1,0 +1,33 @@
+# English Learning Chatbot with Voice Assistant - Requirements
+# Created for transformation from football chatbot to English learning chatbot
+
+# Core Framework & LLM
+streamlit==1.28.1
+langchain==0.0.340
+langchain-community==0.0.10
+groq==0.9.0
+
+# Vector Database & Embeddings
+chromadb==0.4.24
+sentence-transformers==2.2.2
+
+# Speech Processing (NEW - For Voice Assistant)
+openai-whisper==20231117  # Speech-to-Text (STT)
+gtts==2.4.0  # Google Text-to-Speech (TTS) - FREE
+pydub==0.25.1  # Audio processing
+librosa==0.10.0  # Audio analysis (optional)
+pyaudio==0.2.13  # Audio recording
+
+# Streamlit Audio UI Components
+streamlit-audio-recorder==0.0.2
+streamlit-webrtc==0.47.0  # Alternative audio recording
+
+# Utilities
+numpy==1.24.3
+pandas==2.0.3
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Optional but recommended
+scipy==1.11.2  # Scientific computing
+matplotlib==3.7.2  # Visualization (for progress tracking)

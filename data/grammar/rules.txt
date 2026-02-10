@@ -1,0 +1,242 @@
+ENGLISH GRAMMAR RULES & PATTERNS (A1-C2)
+
+=== VERB TENSES ===
+
+PRESENT SIMPLE (A1)
+- Use: Habits, facts, routines
+- Form: Base verb / He/She/It + -s
+- Examples:
+  ✓ I play football every day
+  ✓ She works in London
+  ✓ Dogs have four legs
+- Negatives: do/does + not + verb
+  ✓ I don't like coffee
+  ✓ He doesn't play chess
+
+PRESENT CONTINUOUS (A1)
+- Use: Actions happening now
+- Form: am/is/are + verb-ing
+- Examples:
+  ✓ I am eating breakfast
+  ✓ She is reading a book
+  ✓ They are playing tennis
+- Negatives: am/is/are + not + verb-ing
+  ✓ I'm not watching TV
+
+PAST SIMPLE (A1)
+- Use: Completed actions in the past
+- Form: verb + -ed (regular) OR irregular forms
+- Examples:
+  ✓ I watched a film yesterday
+  ✓ She went to Paris last week
+  ✓ They played football in the park
+- Common irregular verbs: go/went, see/saw, eat/ate, have/had
+- Negatives: did + not + base verb
+  ✓ I didn't see him yesterday
+
+PAST CONTINUOUS (A2)
+- Use: Actions that were happening at a specific time in the past
+- Form: was/were + verb-ing
+- Examples:
+  ✓ I was sleeping when you called
+  ✓ They were dancing at the party
+- Often used with past simple: While he was reading, she arrived
+
+PRESENT PERFECT (A2)
+- Use: Actions with results in present, life experiences, recent events
+- Form: have/has + past participle
+- Examples:
+  ✓ I have lived here for 5 years
+  ✓ She has never traveled to Asia
+  ✓ We have just finished breakfast
+- Common question: Have you ever...?
+
+FUTURE SIMPLE (A1)
+- Use: Decisions, predictions, facts about the future
+- Form: will + base verb
+- Examples:
+  ✓ I will help you tomorrow
+  ✓ She will definitely pass the exam
+  ✓ It will be sunny next week
+- Negatives: will not (won't)
+
+BE GOING TO (A2)
+- Use: Plans, intentions, predictions based on evidence
+- Form: am/is/are + going to + base verb
+- Examples:
+  ✓ I'm going to study English tonight
+  ✓ Look! It's going to rain
+  ✓ We're going to visit Paris in summer
+
+PAST PERFECT (B1)
+- Use: An action that happened before another past action
+- Form: had + past participle
+- Examples:
+  ✓ When I arrived, they had already left
+  ✓ By the time she graduated, she had lived in 3 countries
+- Sequence: Past Perfect → Past Simple
+
+=== CONDITIONAL SENTENCES ===
+
+ZERO CONDITIONAL (A2)
+- Form: If + present simple, present simple
+- Use: General truths, natural laws
+- Examples:
+  ✓ If you heat water to 100°C, it boils
+  ✓ If it rains, the ground gets wet
+
+FIRST CONDITIONAL (A2)
+- Form: If + present simple, will + base verb
+- Use: Possible situations in the future
+- Examples:
+  ✓ If it rains, I will stay at home
+  ✓ If you work hard, you will succeed
+
+SECOND CONDITIONAL (B1)
+- Form: If + past simple, would + base verb
+- Use: Imaginary situations (unlikely or impossible now)
+- Examples:
+  ✓ If I won the lottery, I would travel the world
+  ✓ If you studied harder, you would pass the exam
+
+THIRD CONDITIONAL (B1)
+- Form: If + past perfect, would have + past participle
+- Use: Imaginary situations in the past (impossible to change)
+- Examples:
+  ✓ If I had known about the party, I would have gone
+  ✓ If she had studied, she would have passed the test
+
+=== ARTICLES ===
+
+DEFINITE ARTICLE (THE) (A1)
+- Use: 
+  ✓ Specific items: The book on the table is mine
+  ✓ Unique things: The sun, the moon, the president
+  ✓ Second mention: I saw a dog. The dog was brown
+  ✓ Musical instruments: play the piano, play the guitar
+- Countries with "the": The USA, The UK, The Netherlands
+
+INDEFINITE ARTICLES (A/AN) (A1)
+- A + consonant sounds: a dog, a university (sounds like "yoo-")
+- An + vowel sounds: an apple, an hour (silent h)
+- Use: First mention of countable nouns
+  ✓ I saw a cat yesterday
+
+ZERO ARTICLE (A2)
+- Plural countable nouns (general): Dogs are loyal animals
+- Uncountable nouns (general): Water is essential for life
+- Proper nouns: Paris is a beautiful city (not "the Paris")
+- Meals: Have breakfast / Eat lunch
+
+=== REPORTED SPEECH ===
+
+STATEMENTS (B1)
+- Direct: She said, "I am tired"
+- Reported: She said (that) she was tired
+- Tense shift: present → past, past → past perfect
+- Example patterns:
+  ✓ He said "I work here" → He said he worked there
+  ✓ She said "I have finished" → She said she had finished
+
+QUESTIONS (B1)
+- Direct: She asked, "Where do you live?"
+- Reported: She asked where I lived
+- Word order: Changes to statement form
+- Example: He asked "Can you help?" → He asked if I could help
+
+IMPERATIVES (B1)
+- Direct: "Close the door!" she said
+- Reported: She told him to close the door / She asked him to close the door
+- Use tell/ask + object + infinitive
+
+=== PASSIVE VOICE ===
+
+SIMPLE PASSIVE (A2)
+- Form: be + past participle
+- Use: Focus on the action, not the doer
+- Examples:
+  ✓ Active: Someone designed this house
+  ✓ Passive: This house was designed in 1990
+  ✓ Passive: Football is played worldwide
+
+FOCUS: By whom? (by-agent optional)
+- The book was written by Shakespeare
+- The car was repaired by a mechanic
+
+=== SUBJECT-VERB AGREEMENT ===
+
+SINGULAR SUBJECTS (A1)
+- Takes -s form: He works, She plays, The dog barks
+- Singular nouns: One person, A team is...
+- Uncountable nouns: Water is essential
+
+PLURAL SUBJECTS (A1)
+- Takes base form: They work, Dogs bark
+- Plural nouns: People are friendly
+
+COLLECTIVE NOUNS (B1)
+- British English: The team ARE playing (plural verb)
+- American English: The team IS playing (singular verb)
+- Examples: group, team, family, class, government
+
+=== WORD ORDER ===
+
+BASIC SENTENCE ORDER (A1)
+Subject + Verb + Object + Adverbial information
+- I like coffee in the morning
+- She plays tennis every weekend
+- They arrived at the station yesterday
+
+ADJECTIVE PLACEMENT (A1)
+Adjectives before nouns: a beautiful day, the interesting book
+Multiple adjectives: Opinion + Size + Age + Color + Origin + Material
+- a beautiful old Spanish house
+- a small round wooden table
+
+ADVERB PLACEMENT (A2)
+- Adverbs of frequency: usually, often, sometimes, rarely
+  ✓ I always drink tea (before main verb)
+  ✓ I am always late (after be verb)
+- Adverbs of manner: at end of clause
+  ✓ She speaks English fluently
+- Adverbs of time: at beginning or end
+  ✓ Yesterday, I saw her / I saw her yesterday
+
+QUESTIONS (A1)
+Yes/No: Do you like ice cream?
+Wh- questions: What, Where, When, Who, Why, How
+- What do you do? / Where does she live? / When did they arrive?
+- Inversion: Auxiliary + Subject + Main verb
+  ✓ Do you work here? (not "You do work here?")
+
+=== NEGATION ===
+
+WITH AUXILIARY VERBS (A1)
+- Do/Does/Did + not + verb
+  ✓ I don't like coffee
+  ✓ He doesn't work here
+  ✓ They didn't go yesterday
+
+WITH BE (A1)
+- am/is/are/was/were + not
+  ✓ I'm not tired
+  ✓ She wasn't at home
+
+WITH MODALS (A2)
+- Modal + not
+  ✓ I can't swim / I cannot swim
+  ✓ She won't help
+  ✓ They shouldn't arrive late
+
+DOUBLE NEGATION (B1)
+- Avoid in standard English: NOT "I don't see nothing"
+- Correct: I see nothing / I don't see anything
+
+=== COMMON ERRORS ===
+
+❌ "I am boring" → ✓ "I am bored" (passive adj)
+❌ "Interesting in" → ✓ "Interested in" (after be)
+❌ "He don't work" → ✓ "He doesn't work" (3rd person -s)
+❌ "I am agree" → ✓ "I agree" (no be with this verb)
+❌ "I have 25 years" → ✓ "I am 25 years old" (age expression)
+❌ "How long you live here?" → ✓ "How long have you lived here?" (present perfect for duration)
